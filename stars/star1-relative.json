@@ -1,0 +1,19 @@
+{
+    "data": [
+        { "freq":  0.48483, "l": 1, "n_pg": 0},
+        { "freq":  0.50992, "l": 1, "n_pg": 1},
+        { "freq":  0.56340, "l": 1, "n_pg": 3},
+        { "freq":  0.59342, "l": 1, "n_pg": 4},
+        { "freq":  0.63686, "l": 1, "n_pg": 5},
+        { "freq":  0.68440, "l": 1, "n_pg": 6},
+        { "freq":  0.73841, "l": 1, "n_pg": 7},
+        { "freq":  0.80413, "l": 1, "n_pg": 8},
+        { "freq":  0.87931, "l": 1, "n_pg": 9},
+        { "freq":  0.97367, "l": 1, "n_pg": 10}
+    ], 
+    "settings": {
+        "match_mode": "relative",
+        "title": "Star 1",
+        "filename": "star1-relative"
+    }
+}

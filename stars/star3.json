@@ -1,0 +1,12 @@
+{
+    "data": [
+        { "freq": 6.59094, "l": 0, "n_pg": 1},
+        { "freq": 6.978305, "l": 1, "n_pg": 1},
+        { "freq": 6.461699, "l": 2, "n_pg": -1}
+    ], 
+    "settings": {
+        "match_mode": "exact",
+        "title": "Star 1",
+        "filename": "star3"
+    }
+}

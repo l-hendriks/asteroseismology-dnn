@@ -1,0 +1,13 @@
+{
+    "data": [
+        { "freq": 5.763264, "l": 0, "n_pg": 1},
+        { "freq": 5.637247, "l": 1, "n_pg": -1},
+        { "freq": 6.2434, "l": 1, "n_pg": 1},
+        { "freq": 7.9131, "l": 1, "n_pg": 2}
+    ], 
+    "settings": {
+        "match_mode": "exact",
+        "title": "Star 6A",
+        "filename": "star6A"
+    }
+}

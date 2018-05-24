@@ -1,0 +1,19 @@
+{
+    "data": [
+        { "freq":  0.97367, "l": 1, "n_pg_max": 5},
+        { "freq":  0.87931, "l": 1, "n_pg_max": "prev"},
+        { "freq":  0.80413, "l": 1, "n_pg_max": "prev"},
+        { "freq":  0.73841, "l": 1, "n_pg_max": "prev"},
+        { "freq":  0.68440, "l": 1, "n_pg_max": "prev"},
+        { "freq":  0.63686, "l": 1, "n_pg_max": "prev"},
+        { "freq":  0.59342, "l": 1, "n_pg_max": "prev"},
+        { "freq":  0.56340, "l": 1, "n_pg_max": "prev"},
+        { "freq":  0.50992, "l": 1, "n_pg_max": "prev"},
+        { "freq":  0.48483, "l": 1, "n_pg_max": "prev"}
+    ], 
+    "settings": {
+        "match_mode": "exact",
+        "title": "Star 1 - no n_pg",
+        "filename": "star1-no_npg"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "data": [
+        { "freq": 5.334, "l": 0, "n_pg": 1},
+        { "freq": 5.066, "l": 1, "n_pg": -1},
+        { "freq": 6.702, "l": 1, "n_pg": 2},
+        { "freq": 5.309, "l": 2, "n_pg": -1},
+        { "freq": 0.342, "l": [1,2], "n_pg_max": 0}
+    ], 
+    "settings": {
+        "match_mode": "exact",
+        "title": "Star 5",
+        "filename": "star7A"
+    }
+}

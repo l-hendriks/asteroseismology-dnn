@@ -1,0 +1,14 @@
+{
+    "data": [
+        { "freq": 9.1092, "l": [0,1,2], "n_pg_max": 5, "n_pg_min": 1 },
+        { "freq": 6.58974, "l": 0, "n_pg": 1},
+        { "freq": 6.01616, "l": [0,1,2], "n_pg_max": "prev" },
+        { "freq": 0.8352, "l": [0,1,2], "n_pg_max": "prev" },
+        { "freq": 0.63551, "l": [0,1,2], "n_pg_max": "prev" }
+    ], 
+    "settings": {
+        "match_mode": "exact",
+        "title": "Star 5 second try",
+        "filename": "star5-2"
+    }
+}

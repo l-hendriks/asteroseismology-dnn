@@ -1,0 +1,12 @@
+{
+    "data": [
+        { "freq": 7.4677, "l": 0, "n_pg": 1},
+        { "freq": 7.8742, "l": 1, "n_pg": 1},
+        { "freq": 7.204, "l": 2, "n_pg": -1}
+    ], 
+    "settings": {
+        "match_mode": "exact",
+        "title": "Star 2",
+        "filename": "star4"
+    }
+}
