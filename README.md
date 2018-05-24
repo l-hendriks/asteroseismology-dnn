@@ -7,5 +7,6 @@ If you plan to use this code, please cite the following paper: XXX
 
 - Tensorflow (tested and run on version 1.4.0)
 - TFLearn (tested and run on version 0.3.2)
+- The trained model code (download here: XXX and past in the models folder)
 
 You can install specific versions using pip with for example `pip install tensorflow==1.4.0`. It is recommended to run tensorflow with a GPU, please refer to the tensorflow documentation to set it up.
