@@ -8,7 +8,6 @@
     ], 
     "settings": {
         "match_mode": "exact",
-        "title": "Star 3",
-        "filename": "star5"
+        "filename": "star-3"
     }
 }

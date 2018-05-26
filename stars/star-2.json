@@ -6,7 +6,6 @@
     ], 
     "settings": {
         "match_mode": "exact",
-        "title": "Star 2",
-        "filename": "star4"
+        "filename": "star-2"
     }
 }

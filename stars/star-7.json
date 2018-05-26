@@ -23,7 +23,6 @@
     "settings": {
         "match_mode": "relative",
         "max_n_pg": 0,
-        "title": "Star 2",
-        "filename": "star2-relative"
+        "filename": "star-7"
     }
 }
