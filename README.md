@@ -1,6 +1,6 @@
 # Calculate stellar parameters using deep networks
 
-This repository contains the code that was used to calculate the stellar parameters in XXX.
+This repository contains the code that was used to calculate the stellar parameters in [https://arxiv.org/abs/1811.03639](https://arxiv.org/abs/1811.03639).
 If you plan to use this code, please cite the following paper: [https://arxiv.org/abs/1811.03639](https://arxiv.org/abs/1811.03639)
 
 ## Requirements
