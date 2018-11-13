@@ -1,13 +1,13 @@
 # Calculate stellar parameters using deep networks
 
 This repository contains the code that was used to calculate the stellar parameters in XXX.
-If you plan to use this code, please cite the following paper: XXX
+If you plan to use this code, please cite the following paper: [https://arxiv.org/abs/1811.03639](https://arxiv.org/abs/1811.03639)
 
 ## Requirements
 
 - Tensorflow (tested and run on version 1.4.0)
 - TFLearn (tested and run on version 0.3.2)
-- The trained model code (download here: XXX and past in the models folder)
+- The trained model code ([https://fys.kuleuven.be/ster/research-projects/spaceinn/spaceinn](download here) and paste in the models folder)
 - The grid data parsed in hdf5 format, suitable for deep learning (download here: XXX and paste in data folder)
 - To run the notebook: Jupyter, matplotlib and tqdm
 
